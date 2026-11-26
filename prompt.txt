@@ -1,0 +1,5 @@
+Funniest Cat Voicemail Greeting — one voicemail greeting as if a cat recorded it, at most 120 characters, written by a deterministic TypeScript program (main.ts) that writes the greeting to entry.txt.
+
+The greeting: "You've reached Whiskers. I'm asleep in the box — leave a message, then go open a can at 4 a.m. Beep." (100 characters)
+
+Why it works: it is the cat speaking, not the owner writing about the cat — asleep in the cardboard box, demanding a can be opened at 4 a.m., in the classic voicemail shape (greeting, leave a message, beep) so it lands spoken aloud in a few seconds.
